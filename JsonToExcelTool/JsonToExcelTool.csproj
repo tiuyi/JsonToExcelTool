@@ -78,10 +78,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Excel\2016121401.xls" />
+    <None Include="Excel\2016121402.xls" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="TxtFile\2016121201.txt" />
+    <Content Include="TxtFile\2016121401.txt" />
+    <Content Include="TxtFile\2016121402.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
