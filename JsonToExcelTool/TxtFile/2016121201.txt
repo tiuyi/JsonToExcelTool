@@ -1,0 +1,93 @@
+﻿{
+   "offers": [
+      {
+         "offerType": "mobile-app",
+         "linkDest": "app-store",
+         "convertsOn": "install-and-open",
+         "appInfo": {
+            "appID": "911800950",
+            "previewLink": "https://itunes.apple.com/ch/app/id911800950?mt=8",
+            "appName": "Dawn of Titans",
+            "appCategory": "Action"
+         },
+         "targets": [
+            {
+               "offerID": "cc7b10371d3fca59a90607602fe6140d",
+               "approvalStatus": "approved",
+               "offerStatus": "active",
+               "trackingLink": "http://apptap-server/link/buy/iphone/911800950/e1?clinkID=identifier&pubID=identifier&siteID=identifier&did.aa={android_advertiser_id}&did.i={idfa}&placementID={placement_id}&trackingID={tracking_id}",
+               "countries": [
+                  "CH",
+                  "NL"
+               ],
+               "platforms": [
+                  "ipad",
+                  "iphone"
+               ],
+               "payoutUSD": 2.4,
+               "endDate": null,
+               "dailyConversionCap": 200,
+               "restrictions": {
+                  "allowIncent": false,
+                  "deviceIDRequired": true,
+                  "minOSVersion": "9.0"
+               }
+            }
+         ]
+      },
+      {
+         "offerType": "mobile-app",
+         "linkDest": "app-store",
+         "convertsOn": "install-and-open",
+         "appInfo": {
+            "appID": "com.usamp.mobile",
+            "previewLink": "https://play.google.com/store/apps/details?id=com.usamp.mobile",
+            "appName": "iPoll - Make money on surveys",
+            "appCategory": "Lifestyle"
+         },
+         "targets": [
+            {
+               "offerID": "ba6b29388501d88c8cd61a44d476fecf",
+               "approvalStatus": "approved",
+               "offerStatus": "active",
+               "trackingLink": "http://apptap-server/link/buy/android/com.usamp.mobile/e1?clinkID=identifier&pubID=identifier&siteID=identifier&did.aa={android_advertiser_id}&did.i={idfa}&placementID={placement_id}&trackingID={tracking_id}",
+               "countries": [
+                  "GB"
+               ],
+               "platforms": [
+                  "android"
+               ],
+               "payoutUSD": 1.4,
+               "endDate": null,
+               "dailyConversionCap": 34,
+               "restrictions": {
+                  "allowIncent": false,
+                  "deviceIDRequired": false,
+                  "minOSVersion": null
+               }
+            },
+            {
+               "offerID": "ba6b29388501d88c8cd61a44d476fecf",
+               "approvalStatus": "approved",
+               "offerStatus": "active",
+               "trackingLink": "http://apptap-server/link/buy/android/com.usamp.mobile/e1?clinkID=identifier&pubID=identifier&siteID=identifier&did.aa={android_advertiser_id}&did.i={idfa}&placementID={placement_id}&trackingID={tracking_id}",
+               "countries": [
+                  "US"
+               ],
+               "platforms": [
+                  "android"
+               ],
+               "payoutUSD": 1.2,
+               "endDate": "2015-11-30T00:00:00Z",
+               "dailyConversionCap": null,
+               "restrictions": {
+                  "allowIncent": false,
+                  "deviceIDRequired": true,
+                  "minOSVersion": "4.1"
+               }
+            }
+         ]
+      }
+   ],
+   "requestID": "u9ifzlboecT2oiqytqVEIg:AAABUMkFpdU"
+}
